@@ -1,3 +1,8 @@
++++
+title = Second Post
+date = 2023-12-9T11:05:09+05:30
+draft = true
++++
 ## Second Post
 
 The mind of human can think of multiple weird things. Some of those are listed below:
